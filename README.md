@@ -67,11 +67,29 @@ This project's findings are published as Chapter 4 in the book **"Planning, Fore
 
 Due to the terms of the publishing and copyright agreement, the original dataset and the complete project code files cannot be publicly shared within this repository. This README.md provides a comprehensive overview of the project's objectives, detailed methodology, significant findings, and actionable business insights. 
 
-## Limitations and Future Work**:
+## Limitations and Future Work:
 The study acknowledges certain limitations, primarily related to **demand data  limitations**, which influenced the analytical approach towards evaluating predictive modelling methods for pricing. 
 
 For future work, the methodologies ad findings from this London-focused study **could be extended and adapted to other major cities worldwide**, providing broader applicability and insights into diverse Airbnb markets. Further research could also explore additional external factors or morw granular demand metrics if suitable data becomes available. 
 
 ## Visualisations:
-* **Figure 1**: [Inner vs. Outer London Pricing Comparison]()
-* **Figure 2**: 
+* **Figure 1**: [Average Price/Night for Inner London Neighbourhoods]()
+* **Figure 2**: [Average Price/Night for Outer London Neighbourhoods]()
+* **Figure 3**: [Correlation Matrix Heatmap]()
+* **Figure 4**: [Change per Year in the Nightly Price of Airbnb]()
+* **Figure 5**: [Proportion of Type of Properties]()
+* **Figure 6**: [Proportion of Type of Rooms]()
+* **Figure 7**: [Histogram of Skewness of all the Variables]()
+* **Figure 8**: [Histogram of Variables after Log-Transformation]()
+* **Figure 9**: [Airbnb Demand by Type of Room]()
+* **Figure 10**: [RMSE Score : hotel_rooms]()
+* **Figure 11**: [R-square Score : hotel_rooms]()
+* **Figure 12**: [RMSE Score : shared_rooms]()
+* **Figure 13**: [R-square Score : shared_rooms]()
+* **Figure 14**: [RMSE Score : private_rooms]()
+* **Figure 15**: [R-square Score : private_rooms]()
+* **Figure 16**: [RMSE Score : entire_house/apartment]()
+* **Figure 17**: [R-square Score : entire_house/apartment]()
+* **Figure 18**: [Map of Airbnb Properties in Inner London by Price/Night]()
+* **Figure 19**: [Map of Airbnb Properties in Outer London by Price/Night]()
+* **Figure 20**: [Annual Demand per Neighbourhood]()
