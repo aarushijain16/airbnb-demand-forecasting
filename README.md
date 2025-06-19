@@ -73,23 +73,25 @@ The study acknowledges certain limitations, primarily related to **demand data  
 For future work, the methodologies ad findings from this London-focused study **could be extended and adapted to other major cities worldwide**, providing broader applicability and insights into diverse Airbnb markets. Further research could also explore additional external factors or morw granular demand metrics if suitable data becomes available. 
 
 ## Visualisations:
-* **Figure 1**: [Average Price/Night for Inner London Neighbourhoods](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/1.png)
-* **Figure 2**: [Average Price/Night for Outer London Neighbourhoods](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/2.png)
-* **Figure 3**: [Correlation Matrix Heatmap](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/3.png)
-* **Figure 4**: [Change per Year in the Nightly Price of Airbnb](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/4.png)
-* **Figure 5**: [Proportion of Type of Properties](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/5.png)
-* **Figure 6**: [Proportion of Type of Rooms](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/6.png)
-* **Figure 7**: [Histogram of Skewness of all the Variables](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/7.png)
-* **Figure 8**: [Histogram of Variables after Log-Transformation](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/8.png)
-* **Figure 9**: [Airbnb Demand by Type of Room](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/9.png)
-* **Figure 10**: [RMSE Score : hotel_rooms](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/10.png)
-* **Figure 11**: [R-square Score : hotel_rooms](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/11.png)
-* **Figure 12**: [RMSE Score : shared_rooms](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/12.png)
-* **Figure 13**: [R-square Score : shared_rooms](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/13.png)
-* **Figure 14**: [RMSE Score : private_rooms](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/14.png)
-* **Figure 15**: [R-square Score : private_rooms](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/15.png)
-* **Figure 16**: [RMSE Score : entire_house/apartment](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/16.png)
-* **Figure 17**: [R-square Score : entire_house/apartment](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/17.png)
-* **Figure 18**: [Map of Airbnb Properties in Inner London by Price/Night](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/18.png)
-* **Figure 19**: [Map of Airbnb Properties in Outer London by Price/Night](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/19.png)
-* **Figure 20**: [Annual Demand per Neighbourhood](https://github.com/aarushijain16/airbnb-demand-forecasting/blob/main/20.png)
+* **Figure 1**: Average Price/Night for Inner London Neighbourhoods
+* **Figure 2**: Average Price/Night for Outer London Neighbourhoods
+* **Figure 3**: Correlation Matrix Heatmap
+* **Figure 4**: Change per Year in the Nightly Price of Airbnb
+* **Figure 5**: Proportion of Type of Properties
+* **Figure 6**: Proportion of Type of Rooms
+* **Figure 7**: Histogram of Skewness of all the Variables
+* **Figure 8**: Histogram of Variables after Log-Transformation
+* **Figure 9**: Airbnb Demand by Type of Room
+* **Figure 10**: RMSE Score : hotel_rooms
+* **Figure 11**: R-square Score : hotel_rooms
+* **Figure 12**: RMSE Score : shared_rooms
+* **Figure 13**: R-square Score : shared_rooms
+* **Figure 14**: RMSE Score : private_rooms
+* **Figure 15**: R-square Score : private_rooms
+* **Figure 16**: RMSE Score : entire_house/apartment
+* **Figure 17**: R-square Score : entire_house/apartment
+* **Figure 18**: Map of Airbnb Properties in Inner London by Price/Night
+* **Figure 19**: Map of Airbnb Properties in Outer London by Price/Night
+* **Figure 20**: Annual Demand per Neighbourhood
+
+### To get full access to the complete chapter, including all visualizations and in-depth analysis, please visit the book on the Publisher's Website: [Planning, Forecasting and Strategy in a Turbulent Era - Edward Elgar Publishing](https://www.elgaronline.com/edcollbook/book/9781035317240/9781035317240.xml#:~:text=Forecasting%2C%20Planning%20and%20Strategy%20in%20a%20Turbulent%20Era%20emphasizes%20the,perform%20well%20under%20immense%20pressure.)
